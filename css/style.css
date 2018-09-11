@@ -60,7 +60,7 @@ p {
   color: #666;
 }
 
-#info1 .info-right {
+#info1 .info-left {
   margin-top: 90px;
 }
 
@@ -85,4 +85,14 @@ img {
   border-radius: 5%;
   max-width: 100%;
   margin: 0 auto;
+}
+
+.info-left {
+  text-align: center;
+}
+i {
+  font-size: 70px;
+  padding: 20px;
+  text-decoration: none;
+  color: #686565;
 }
