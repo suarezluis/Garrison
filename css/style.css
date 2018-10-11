@@ -62,6 +62,7 @@ p {
 
 #info1 .info-left {
   margin-top: 90px;
+  text-align: center;
 }
 
 #info2 {
@@ -90,9 +91,38 @@ img {
 .info-right {
   text-align: center;
 }
-i {
+
+.fab {
   font-size: 70px;
   padding: 20px;
   text-decoration: none;
   color: #686565;
+}
+
+.fab:hover {
+  font-size: 70px;
+  padding: 20px;
+  text-decoration: none;
+  color: #2ca3de;
+}
+
+.logo {
+  margin-top: -50px;
+  margin-bottom: 50px;
+  border-radius: 0;
+}
+
+.bio {
+  text-align: justify;
+  font-size: 2rem;
+  margin-top: -70px;
+}
+
+.gallery {
+  display: inline;
+}
+
+.gallery-item {
+  max-height: 300px;
+  margin-bottom: 10px;
 }
