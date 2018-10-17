@@ -63,6 +63,7 @@ p {
 #info1 .info-left {
   margin-top: 90px;
   text-align: center;
+  display: block;
 }
 
 #info2 {
