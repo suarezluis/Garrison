@@ -127,3 +127,7 @@ img {
   max-height: 300px;
   margin-bottom: 10px;
 }
+
+.player {
+  margin: 100px;
+}
